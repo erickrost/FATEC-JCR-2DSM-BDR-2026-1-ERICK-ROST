@@ -1,4 +1,4 @@
-# FATEC-JCR-2DSM-BDR-2026-1-GUILHERME-HENRIQUE
+# FATEC-JCR-2DSM-BDR-2026-1-ERICK-ROST
 Repositório de Banco de dados relacionais
 # Portfólio – Banco de Dados Relacional – 2026/1
 ## Aluno
